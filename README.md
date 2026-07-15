@@ -3,7 +3,7 @@
 
 I am a results-driven Software Engineer with 15+ years of experience designing, building, and optimizing scalable web ecosystems and enterprise ERP solutions. I specialize in backend architecture, high-performance database management, and agile team leadership.
 
-- 🛠️ **Core Tech Stack:** PHP (Symfony, Laravel), JavaScript (Vue, Ionic), PostgreSQL, MySQL, and Docker.
+- 🛠️ **Core Tech Stack:** PHP (Symfony, Laravel), JavaScript (Vue, Angular, Ionic), PostgreSQL, MySQL, and Docker.
 - 🚀 **What I focus on:** Clean Code, SOLID principles, performance tuning, and turning complex business requirements into robust software architectures.
 - 👨‍💻 **Current status:** Open to Senior Backend, Tech Lead, or Software Architect roles in Montreal or Remote within Canada.
 
